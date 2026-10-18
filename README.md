@@ -155,4 +155,3 @@ If you find this project useful, consider giving the repository a star!
 
 ---
 
-*This project is intended for educational and portfolio purposes. Business conclusions depend on the accuracy, completeness, and definitions of the underlying dataset.*
