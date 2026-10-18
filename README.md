@@ -97,7 +97,7 @@ Add your dashboard screenshot to the repository and name it `dashboard.png`.
 
 Then use the following Markdown:
 
-![IRCTC Business Insights Dashboard](dashboard.png)
+!(https://github.com/vaishnavisharnagat/IRCTC-Dashboard/blob/main/IRCTC.png)
 
 -------
 
